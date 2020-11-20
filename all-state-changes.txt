@@ -1,5 +1,5 @@
 ----------------------------------  --------------------------------------------------------------------------------
-Last updated:                       2020-11-20 13:10 UTC
+Last updated:                       2020-11-20 13:21 UTC
 Latest batch received: (Louisiana)  2020-11-20 02:15 UTC
 Prettier web version:               https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------------------  --------------------------------------------------------------------------------
@@ -1139,9 +1139,10 @@ Kentucky (EV: 8) Total Votes: (Trump: 1,326,347, Biden: 772,223)
 
 Louisiana (EV: 8) Total Votes: (Trump: 1,255,776, Biden: 856,034)
 ----------------  ---  ----------------  ----------------  -------------------------  ----------------  ---------------------  ----------------
+2020-11-20 13:18  ***  Trump up 399,742  Unknown           Δ:       0 (n/a)           99.47% precincts  Unknown                & trends  59.70%
 2020-11-20 13:09  ***  Trump up 399,742  Unknown           Δ:       0 (n/a)           98.68% precincts  Unknown                & trends  59.70%
 2020-11-20 12:54  ***  Trump up 399,742  Unknown           Δ:       0 (n/a)           97.43% precincts  Unknown                & trends  59.70%
-2020-11-20 12:43  ***  Trump up 399,742  Unknown           Δ:       0 (n/a)           96.39% precincts  Unknown                & trends  59.70%
+2020-11-20 12:43  ---  Trump up 399,742  Unknown           Δ:       0 (n/a)           96.39% precincts  Unknown                & trends  59.70%
 2020-11-20 12:22  ---  Trump up 399,742  Unknown           Δ:       0 (n/a)           94.33% precincts  Unknown                & trends  59.70%
 2020-11-20 03:29  ---  Trump up 399,742  Unknown           Δ:       0 (n/a)           94.13% precincts  Unknown                & trends  59.70%
 2020-11-11 03:23  ---  Trump up 399,742  Unknown           Δ:       0 (n/a)           94.03% precincts  Unknown                & trends  59.70%
