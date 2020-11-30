@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-30 17:24 UTC
+Last updated:           2020-11-30 17:38 UTC
 Latest batch received:  2020-11-28 05:00 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -1252,7 +1252,7 @@ Louisiana (EV: 8) Total Votes: (Trump: 1,255,776, Biden: 856,034)
 
 Maine (EV: 4) Total Votes: (Biden: 431,277, Trump: 360,446)
 ----------------  ---  ---------------  --------------------  -------------------------  ----------------  --------------------  ----------------
-2020-11-30 16:57  ***  Biden up 70,831  Left (est.): 3,038    Δ:       0 (n/a)           98.55% precincts  Trump needs 1252.12%  & trends  59.33%
+2020-11-30 16:57  ---  Biden up 70,831  Left (est.): 3,038    Δ:       0 (n/a)           98.55% precincts  Trump needs 1252.12%  & trends  59.33%
 2020-11-25 02:21  ---  Biden up 70,831  Left (est.): 3,033    Δ:      75 (Trump +24.7%)  98.37% precincts  Trump needs 1254.10%  & trends  59.33%
 2020-11-25 01:30  ---  Biden up 70,868  Left (est.): 3,124    Δ: Unknown (Trump +39.8%)  98.37% precincts  Trump needs 1219.64%  & trends  59.10%
 2020-11-25 00:44  ---  Biden up 70,798  Left (est.): 3,043    Δ: Unknown (Biden +40.4%)  98.37% precincts  Trump needs 1249.58%  & trends  62.88%
