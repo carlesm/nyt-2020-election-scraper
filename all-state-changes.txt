@@ -1,5 +1,5 @@
 ---------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2020-12-01 22:27 UTC
+Last updated:                      2020-12-01 22:41 UTC
 Latest batch received: (New York)  2020-12-01 20:22 UTC
 Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ---------------------------------  --------------------------------------------------------------------------------
@@ -2289,8 +2289,9 @@ New Mexico (EV: 5) Total Votes: (Biden: 501,614, Trump: 401,894)
 2020-11-04 13:28  ---  Biden up 92,285  Left (est.): 10,829  Δ:       0 (n/a)           97.73% precincts   Trump needs 485.75%      & trends  n/a
 ----------------  ---  ---------------  -------------------  -------------------------  -----------------  -----------------------  ----------------
 
-New York (EV: 29) Total Votes: (Biden: 4,932,060, Trump: 3,146,681)
+New York (EV: 29) Total Votes: (Biden: 4,943,052, Trump: 3,148,133)
 ----------------  ---  ------------------  ----------------------  -------------------------  ----------------  -------------------  ----------------
+2020-12-01 22:40  ***  Biden up 1,794,919  Left (est.): 694,487    Δ:  12,444 (Biden +38.3%)  95.80% precincts  Trump needs 181.13%  & trends  12.67%
 2020-12-01 22:25  ***  Biden up 1,785,379  Left (est.): 707,080    Δ: 783,352 (Biden +36.6%)  95.67% precincts  Trump needs 178.11%  & trends  13.38%
 2020-12-01 16:37  ---  Biden up 1,211,591  Left (est.): 1,497,843  Δ:  14,867 (Biden +27.2%)  88.78% precincts  Trump needs 91.04%   & trends  27.86%
 2020-12-01 16:08  ---  Biden up 1,203,492  Left (est.): 1,513,063  Δ:     311 (Trump + 6.3%)  88.59% precincts  Trump needs 90.36%   & trends  29.68%
