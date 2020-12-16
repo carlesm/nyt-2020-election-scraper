@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-12-16 21:54 UTC
+Last updated:           2020-12-16 22:04 UTC
 Latest batch received:  2020-12-08 20:01 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -928,7 +928,7 @@ Idaho (EV: 4) Total Votes: (Trump: 554,118, Biden: 287,021)
 
 Illinois (EV: 20) Total Votes: (Biden: 3,471,915, Trump: 2,446,891)
 ----------------  ---  ------------------  ----------------------  --------------------------  ----------------  ---------------------  ----------------
-2020-12-16 21:36  ***  Biden up 1,025,024  Unknown                 Δ:       0 (n/a)            90.75% precincts  Unknown                & trends  38.43%
+2020-12-16 21:36  ---  Biden up 1,025,024  Unknown                 Δ:       0 (n/a)            90.75% precincts  Unknown                & trends  38.43%
 2020-12-08 16:12  ---  Biden up 1,025,024  Unknown                 Δ: Unknown (Biden +50.0%)   90.75% precincts  Unknown                & trends  38.46%
 2020-12-08 15:47  ---  Biden up 1,025,084  Unknown                 Δ:     453 (Biden +15.1%)   90.75% precincts  Unknown                & trends  38.43%
 2020-12-04 19:16  ---  Biden up 1,024,947  Unknown                 Δ:   3,592 (Biden + 4.2%)   90.75% precincts  Unknown                & trends  38.17%
